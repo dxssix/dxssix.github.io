@@ -16,7 +16,8 @@ I aim to integrate technology and creativity to craft innovative approaches that
 - **Kangwon National University**  
   - **Digital Military Studies** *(Bachelor's Degree)*  
   - **Cybersecurity Convergence** *(Double Major)*  
-  - **Blockchain Convergence** *(Double Major)*  
+  - **Blockchain Convergence** *(Double Major)*
+  
 ---
 
 ### Highlights
