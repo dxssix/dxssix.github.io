@@ -4,8 +4,6 @@ title: Dxssix's Blog
 permalink: /
 ---
 
-# Dxssix's Blog
-
 Welcome! I’m **Dxssix**, a passionate security enthusiast.
 I aim to integrate technology and creativity to craft innovative approaches that promote safety and efficiency in the digital world.
 
